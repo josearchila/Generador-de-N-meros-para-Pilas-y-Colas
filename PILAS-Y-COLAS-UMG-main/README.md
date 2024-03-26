@@ -1,0 +1,1 @@
+En el siguiente programa se realizo un generador de numeros aleatorios de un rango entre 10000000 y -10000000 de numeros positivos y negativos con los metodos de pilas y colas, el metodo colas fue el mas eficiente ya que en la inserción y extracción de datos se obtuvo mejor tiempo en el rendimiento y optimizacion.
